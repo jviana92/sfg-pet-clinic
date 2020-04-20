@@ -43,6 +43,6 @@
             scm:git:git@github.com:jviana92/sfg-pet-clinic.git
         </developerConnection>
       <tag>1.0</tag>
-  </scm>asa
+  </scm>
 
 </project>
