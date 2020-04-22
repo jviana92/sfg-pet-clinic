@@ -53,6 +53,6 @@
             scm:git:git@github.com:jviana92/sfg-pet-clinic.git
         </developerConnection>
       <tag>HEAD</tag>
-  </scm>
+    </scm>
 
 </project>
